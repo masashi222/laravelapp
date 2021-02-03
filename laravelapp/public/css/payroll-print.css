@@ -1,0 +1,19 @@
+@media print{
+    .payroll_print{
+        display: none;
+    }
+    /* A4サイズにおさめる */
+    .row {
+    	margin: 0 !important;
+    }
+    td,th {
+	padding: 0 !important;
+	}
+	body {
+		padding: 0 !important;
+	}
+}
+
+.avoid {
+   page-break-inside: avoid;
+}

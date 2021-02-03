@@ -1,0 +1,15 @@
+.top-frame{
+	position:fixed;
+	top:0;
+	width:100vw;
+	height: 62px;
+	z-index:1;
+}
+body {
+	padding: 62px 0;
+}
+
+/* 戻るボタン */
+.back {
+	cursor:pointer;
+}

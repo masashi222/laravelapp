@@ -1,0 +1,19 @@
+/* 勤怠一覧画面 */
+.date-line:hover {
+	cursor:pointer;
+	background-color:#ffeeba;
+}
+
+/* 勤怠管理画面 */
+.staff-table:hover {
+	cursor:pointer;
+}
+
+#logout {
+	color:#212529;
+}
+
+/* ログアウト */
+#logout:hover {
+	cursor:pointer;
+}

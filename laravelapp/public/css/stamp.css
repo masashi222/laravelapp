@@ -1,0 +1,27 @@
+.container-fluid {
+	position:relative;
+	width:100vw;
+	height:85vh;
+}
+.stamp-frame {
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+	padding-top:15px;
+	width:80vw;
+	height:80vh;
+}
+
+.stamp-pass-frame {
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+	width:80vw;
+	height:20vh;
+}

@@ -1,0 +1,12 @@
+td {
+	height: 10vh;
+}
+td:hover {
+	cursor:pointer;
+	background-color:#ffeeba;
+}
+
+/* テーブルのカラムの幅の固定 */
+table {
+	table-layout: fixed;
+}

@@ -1,0 +1,13 @@
+/* 給与計算書表示成形 */
+/* 表のタイトル中央よせ */
+th {
+	text-align: center;
+}
+/* 表の値の右ずめ */
+td{
+	text-align: right;
+}
+/* 氏名の値のみ中央よせ */
+.name-span,.no-span,.sum-span {
+	text-align: center;
+}

@@ -1,0 +1,8 @@
+@media print{
+    .shift_print{
+        display: none;
+    }
+    @page{
+    	size: landscape;
+    }
+}
